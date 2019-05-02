@@ -1,0 +1,78 @@
+taken from noaa  https://www.weather.gov/ajk/ForecastTerms
+
+
+Anatomy of a Forecast
+The National Weather Service issues forecasts for sky condition, temperature, wind, and precipitation probability on a routine basis. Because the weather is always changing, the terminology used in these forecasts is also quite variable. Listed below are descriptions of regularly used weather terms that should give you a better understanding of each forecast.
+
+ 
+
+SKY CONDITION
+
+The sky condition describes the predominant/average sky condition based on eighths of the sky covered by opaque (not transparent) clouds. If a high probability of precipitation (60% or greater) is expected, then the sky condition may be omitted since it is inferred from the precipitation forecast.
+
+Sky Condition	Opaque Cloud Coverage
+Cloudy	7/8 to 8/8
+Mostly Cloudy / Considerable Cloudiness	5/8 to 7/8
+Partly Cloudy / Partly Sunny	3/8 to 5/8
+Mostly Clear / Mostly Sunny	1/8 to 3/8
+Clear / Sunny	1/8 or less
+ 
+
+ 
+
+TEMPERATURE
+
+The temperature in a forecast is used to describe the forecast maximum and minimum temperature, or in some cases, the temperature expected at a specific time.
+
+Temperature Description	Forecast Meaning
+Around 40 / Near 40 / About 40	A range of temperatures from 38 to 42
+Lower 40s	Temperatures of 40, 41, 42, 43, 44
+Middle 40s	Temperatures of 43, 44, 45, 46, 47
+Upper 40s	Temperatures of 46, 47, 48, 49
+40s	A range of temperatures from 40 to 49
+40 to 45	Temperatures of 40, 41, 42, 43, 44, 45
+ 
+
+ 
+
+WIND
+
+The wind describes the prevailing direction from which the wind is blowing, with speeds in miles per hour. Wind velocity is normally included in the first five periods of a zone forecast, although descriptive terms may be used in all periods.
+
+Sustained Wind Speed	Descriptive Term
+0-5 mph	Light / Light & variable wind
+5-10 mph / 10-15 mph / 10-20 mph	None
+15-25 mph	Breezy (mild weather)
+Brisk or Blustery (cold weather)
+20-30 mph	Windy
+30-40 mph	Very windy
+40-73 mph	Strong, dangerous, high, damaging
+(High Wind Warning criteria)
+74 mph or greater	Hurricane force
+ 
+
+ 
+
+PRECIPITATION PROBABILITY
+
+The Probability of Precipitation (POP) is defined as the likelihood of occurrence (expressed as a percent) of a measurable amount of liquid precipitation (or the water equivalent of frozen precipitation) during a specified period of time at any given point in the forecast area. Measurable precipitation is equal to or greater than 0.01”. Unless specified otherwise, the time period is normally 12 hours. The forecast area, or zone, is generally considered to be a county. NWS forecasters use such categorical terms as occasional, intermittent, or periods of to describe a precipitation event that has a high probability of occurrence (80% +) but is expected to be of an “on and off” nature.
+
+POP Percent Expression of Uncertainty	Equivalent Area Qualifier (convective use only)
+10 percent	None used (Isolated / Few)
+20 percent	Slight chance (Widely scattered)
+30, 40, & 50 percent	Chance (Scattered)
+60 & 70 percent	Likely (Numerous or none used)
+80, 90, & 100 percent	None used
+ 
+
+ 
+
+TIME PERIODS
+
+Forecast Time Period	NWS Definition (Local Standard Time)
+Today	6AM-6PM
+This Morning	6AM-Noon
+This Afternoon	Noon-6PM
+This Evening	6PM-Midnight
+Overnight	Midnight-6AM
+Tonight	6PM-6AM
